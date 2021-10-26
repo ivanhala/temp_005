@@ -7,7 +7,7 @@ jQuery(document).ready(function( $ ){
              if( jQuery(this).html() == '16:00 - 20:00<br>' ){
                  jQuery(this).html('Turno de tarde');
              }
-			 if( jQuery(this).html() == '10:00 - 13:00<br>' ){
+             if( jQuery(this).html() == '10:00 - 13:00<br>' ){
                  jQuery(this).html('Turno de mañana');
              }
              if( jQuery(this).html() == '14:00 - 17:00<br>' ){
